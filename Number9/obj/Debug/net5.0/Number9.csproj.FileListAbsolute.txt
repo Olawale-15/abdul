@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\Number9.exe
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\Number9.deps.json
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\Number9.runtimeconfig.json
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\Number9.runtimeconfig.dev.json
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\Number9.dll
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\ref\Number9.dll
+C:\Users\user\Desktop\Number9\bin\Debug\net5.0\Number9.pdb
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.AssemblyInfo.cs
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.dll
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\ref\Number9.dll
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.pdb
+C:\Users\user\Desktop\Number9\obj\Debug\net5.0\Number9.genruntimeconfig.cache

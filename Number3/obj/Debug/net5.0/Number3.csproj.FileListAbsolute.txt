@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\Number3.exe
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\Number3.deps.json
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\Number3.runtimeconfig.json
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\Number3.runtimeconfig.dev.json
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\Number3.dll
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\ref\Number3.dll
+C:\Users\user\Desktop\Number3\bin\Debug\net5.0\Number3.pdb
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.AssemblyInfo.cs
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.dll
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\ref\Number3.dll
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.pdb
+C:\Users\user\Desktop\Number3\obj\Debug\net5.0\Number3.genruntimeconfig.cache
